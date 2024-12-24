@@ -1,3 +1,2 @@
 How to download the downloader for the os,
-First, click this link to download the file: https://github.com/pretzelOS/os-downloader/archive/refs/heads/main.zip
-Next Unzip the file in your downloads file,
+Click this link to download: https://www.icloud.com/iclouddrive/00dY7Ukb-KmQ3oUYxhIQA97lg#pretzelOS%20
